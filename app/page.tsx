@@ -107,7 +107,7 @@ export default function Home() {
                             { style: 'Casual', image: '/casual.png' },
                             { style: 'Formal', image: '/formal.png' },
                             { style: 'Party', image: '/party.png' },
-                            { style: 'Gym', image: '/gym.png' },
+                            { style: 'Gym', image: '/Gym.png' },
                         ].map((item, index) => (
                             <div
                                 key={index}
