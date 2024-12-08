@@ -49,7 +49,7 @@ export default function Footer() {
                     <div className="col-span-1 md:col-span-2">
                         <h2 className="text-2xl font-bold mb-4">SHOP.CO</h2>
                         <p className="mb-4 text-gray-600">
-                            We have clothes that suits your style and which you're proud to
+                            We have clothes that suits your style and which you&apos;re proud to
                             wear. From women to men.
                         </p>
                         <div className="flex space-x-4">

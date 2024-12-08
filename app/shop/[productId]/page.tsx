@@ -1,8 +1,8 @@
 import Image from 'next/image'
-import Link from 'next/link'
+
 import { Star, Heart } from 'lucide-react'
 
-export default function ProductPage({ params }: { params: { productId: string } }) {
+export default function ProductPage() {
     const product = {
         name: 'One Life Graphic T-shirt',
         price: 260,

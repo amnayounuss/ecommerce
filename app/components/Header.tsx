@@ -1,6 +1,6 @@
 
 import Link from 'next/link'
-import { ChevronDown, Search, ShoppingCart, User } from 'lucide-react'
+import { Search, ShoppingCart, User } from 'lucide-react'
 
 export default function Header() {
     return (
